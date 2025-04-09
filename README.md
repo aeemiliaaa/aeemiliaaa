@@ -1,5 +1,5 @@
 - 💻 I'm currently learning Python
-- AI & Constructions
+- Exploring AI & Cybersecurity related roles 
 
 
 <!--
