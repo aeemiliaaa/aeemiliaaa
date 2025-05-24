@@ -1,4 +1,4 @@
-- 💻 I'm currently learning Python
+- 💻 I'm currently learning Python via the MOOC 2025 Python Programming course from the University of Helsinki
 - Exploring AI & Cybersecurity related roles 
 
 
