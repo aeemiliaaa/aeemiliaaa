@@ -1,7 +1,7 @@
-- 💻 I'm currently learning Python via the MOOC 2025 Python Programming course from the University of Helsinki
-- In the process of getting my Google Cybersecurity Professional Certificate 
-- Actively documenting my course progress on GitHub
-- Exploring AI & Cybersecurity related roles 
+- 💻 Python MOOC 2025 Python Programming course from the University of Helsinki alumni 
+- Google Cybersecurity Professional Certificate holder
+- Actively documenting my progress on GitHub
+- Exploring Cybersecurity & AI related roles 
 
 
 <!--
