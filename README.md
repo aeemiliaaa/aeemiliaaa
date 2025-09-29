@@ -1,4 +1,4 @@
-- 💻 Python MOOC 2025 Python Programming course from the University of Helsinki alumni 
+- 💻 Python MOOC 2025 Programming course from the University of Helsinki alumni 
 - Google Cybersecurity Professional Certificate holder
 - Actively documenting my progress on GitHub
 - Exploring Cybersecurity & AI related roles 
